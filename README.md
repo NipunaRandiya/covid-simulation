@@ -10,3 +10,15 @@ This is a Python-based simulation that models the spread of COVID-19 within a co
 - **Input Handling**: Allows for user input on whether masks are being worn or if travel restrictions are in place.
 - **Dynamic Data Collection**: Tracks statistics (infected, hospitalized, recovered, fatalities) on a daily basis.
 - **Visualization**: Graphs the daily counts of infections, hospitalizations, recoveries, and fatalities.
+
+## Installation
+
+### Prerequisites
+
+- Python 3
+- `matplotlib` for data visualization
+
+To install the required dependencies, run the following:
+
+```bash
+pip install matplotlib
